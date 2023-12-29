@@ -49,6 +49,6 @@ This folder contains Python code for detecting spam SMS messages using Natural L
 ### Author
 
 Madhan Sai CR
-> Contact me @ [LinkedIn](www.linkedin.com/in/madhan-sai-cr-3863692a7) |  [Email](madhad048@rmkcet.ac.in)
+> Contact me @ [LinkedIn](http://www.linkedin.com/in/madhan-sai-cr-3863692a7) |  [Email](madhad048@rmkcet.ac.in)
 
 
