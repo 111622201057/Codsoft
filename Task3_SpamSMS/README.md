@@ -1,4 +1,4 @@
-# CODSOFT DECEMBER 2023 ML TASK 3 - Spam SMS Detection
+# CODSOFT DECEMBER 2023 ML TASK 4 - Spam SMS Detection
 
 ## Main Objective: *Spam SMS Data Learning, Identification, Classification and generate a Statistical Report*.
 
@@ -49,6 +49,6 @@ This folder contains Python code for detecting spam SMS messages using Natural L
 ### Author
 
 Madhan Sai CR
-> Contact me @ [LinkedIn](https://www.linkedin.com/in/cr-madhan-sai-32b083241) |  [Email](mscelegala2004@gmail.com)
+> Contact me @ [LinkedIn](www.linkedin.com/in/madhan-sai-cr-3863692a7) |  [Email](madhad048@rmkcet.ac.in)
 
 
