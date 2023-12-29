@@ -45,6 +45,9 @@ This folder contains Python code for detecting spam SMS messages using Natural L
 - Scikit-Learn (`scikit-learn`)
 - TQDM (`tqdm`)
 
+### Linkedin video :
+spam sms detection 
+https://www.linkedin.com/posts/activity-7146412543287173120-JdPm?utm_source=share&utm_medium=member_desktop 
 
 ### Author
 
