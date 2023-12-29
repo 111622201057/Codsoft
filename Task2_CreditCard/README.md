@@ -52,9 +52,9 @@ This repository contains Python code for detecting credit card fraud using a Ran
 - **Imbalanced-Learn** (`imblearn`)
 ### Linkedin video:
 Credit Card Fraud Detection
-https://www.linkedin.com/posts/activity-7146414270237270016-QT73?utm_source=share&utm_medium=member_desktop
-
+https://www.linkedin.com/posts/madhansaicr_creditcardfrauddetection-codsoft-codsoftinternship-activity-7146541408210808832-5URj
+utm_source=share&utm_medium=member_desktop
 ### Author
 Madhan Sai CR
-> Contact me @ [LinkedIn](http://www.linkedin.com/in/madhan-sai-cr-3863692a7) |  [Email](mailto:madhad048@rmkcet.ac.in)
+> Contact me @ [LinkedIn](http://www.linkedin.com/in/madhansaicr) |  [Email](mailto:madhansaiofficial@gmail.com)
 
