@@ -47,11 +47,11 @@ This folder contains Python code for detecting spam SMS messages using Natural L
 
 ### Linkedin video :
 spam sms detection 
-https://www.linkedin.com/posts/activity-7146412543287173120-JdPm?utm_source=share&utm_medium=member_desktop 
+https://www.linkedin.com/posts/madhansaicr_spamsmsdetection-codsoft-codsoftinternship-activity-7146539485474799616-76mC?utm_source=share&utm_medium=member_desktop
 
 ### Author
 
 Madhan Sai CR
-> Contact me @ [LinkedIn](http://www.linkedin.com/in/madhan-sai-cr-3863692a7) |  [Email](madhad048@rmkcet.ac.in)
+> Contact me @ [LinkedIn](http://www.linkedin.com/in/madhansaicr) |  [Email](madhansaiofficial@gmail.com)
 
 
