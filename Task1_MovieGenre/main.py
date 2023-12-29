@@ -12,7 +12,7 @@ More details on the structure, working and requirements are available in the REA
 # TASK CATEGORY: Machine Learning
 # DATE OF SUBMISSION: 30 december 2023
 # LinkedIn Profile: https://linkedin.com/in/arcticblue/
-# GitHub Repository: https://github.com/azuregray/CodSoft-InternshipTasks/
+
 
 
 # Lets start the code by importing necessary libraries
