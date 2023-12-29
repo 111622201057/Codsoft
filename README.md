@@ -8,11 +8,17 @@ In this repository, I present my Three significant tasks I accomplished during m
 
 ### Task Description: *Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. You can use techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines.*
 For this task, I implemented an ML model using TF-IDF and Naive Bayes classifier to successfully predict movie genres based on plot summaries, achieving accurate genre classification.
+Linkedin Video:
+Movie Genre Classification:
+https://www.linkedin.com/posts/activity-7146415459037327361-33Gp?utm_source=share&utm_medium=member_desktop
 
 ## Task 2: Credit Card Fraud Detection
 
 ### Task Description: *Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.*
 In this task, I developed a fraud detection model utilizing algorithms such as Logistic Regression, Decision Trees, and Random Forests on a credit card transaction dataset. The code and output files are available in the respective project directory.
+Linkedin video : 
+Credit Card Fraud Detection:
+https://www.linkedin.com/posts/activity-7146414270237270016-QT73?utm_source=share&utm_medium=member_desktop
 
 ## Task 3: Spam SMS Detection
 
@@ -24,8 +30,10 @@ I'm excited to share the outcomes of all my tasks, and I encourage you to explor
 
 Feel free to reach out if you have any questions or feedback.
 Sincerely Thank You for reviewing my internship work!
+
 Linkedin video :
-spam sms detection https://www.linkedin.com/posts/activity-7146412543287173120-JdPm?utm_source=share&utm_medium=member_desktop
+spam sms detection :
+https://www.linkedin.com/posts/activity-7146412543287173120-JdPm?utm_source=share&utm_medium=member_desktop
 
 
 Madhan Sai CR
