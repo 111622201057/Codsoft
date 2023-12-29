@@ -53,10 +53,10 @@ This folder contains Python code for a movie genre prediction system using Multi
 - TQDM (`tqdm`)
 ### Linkedin Video :
 Movie Genre Classification:
-https://www.linkedin.com/posts/activity-7146415459037327361-33Gp?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/madhansaicr_moivegenreclassification-codsoft-codsoftinternship-activity-7146537845338341376-tm8P?utm_source=share&utm_medium=member_desktop
 
 ### Author
 
 Madhan Sai CR
-> Contact me @ [LinkedIn](http://www.linkedin.com/in/madhan-sai-cr-3863692a7) | [Email](mailto:madhad048@rmkcet.ac.in)
+> Contact me @ [LinkedIn](http://www.linkedin.com/in/madhansaicr) | [Email](mailto:madhansaiofficial@gmail.com)
 
