@@ -51,10 +51,12 @@ This folder contains Python code for a movie genre prediction system using Multi
 - NumPy (`numpy`)
 - Scikit-Learn (`scikit-learn`)
 - TQDM (`tqdm`)
-
+### Linkedin Video :
+Movie Genre Classification:
+https://www.linkedin.com/posts/activity-7146415459037327361-33Gp?utm_source=share&utm_medium=member_desktop
 
 ### Author
 
 Madhan Sai CR
-> Contact me @ [LinkedIn](https://www.linkedin.com/in/cr-madhan-sai-32b083241 ../..) | [Email](mailto:mscelegala2004@gmail.com)
+> Contact me @ [LinkedIn](http://www.linkedin.com/in/madhan-sai-cr-3863692a7) | [Email](mailto:madhad048@rmkcet.ac.in)
 
