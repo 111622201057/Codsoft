@@ -2,7 +2,7 @@
 Hello again everyone! This is Madhan sai CR
 Intern at CODSOFT, India.
 
-I'm very thrilled to share my Third Task at CodSoft Internship September 2023 viz. SPAM SMS DETECTION MODEL.
+I'm very thrilled to share my Third Task at CodSoft Internship December 2023 viz. SPAM SMS DETECTION MODEL.
 More details on the structure, working and requirements are available in the README files of respective folder name corresponding to the Task Name.
 '''
 
@@ -11,7 +11,7 @@ More details on the structure, working and requirements are available in the REA
 # 4th Task in the List of Tasks
 # TASK CATEGORY: Machine Learning
 # DATE OF SUBMISSION: 30 December 2023
-# LinkedIn Profile: www.linkedin.com/in/madhan-sai-cr-3863692a7
+# LinkedIn Profile: http://www.linkedin.com/in/madhansaicr
 #github Profile:https://github.com/111622201057
 
 
