@@ -2,13 +2,13 @@
 Hello everyone! This is Madhan Sai CR
 Intern at CODSOFT, India.
 
-I'm very thrilled to share my First Task at CodSoft Internship December 2023 viz. MOVIE GENRE CLASSIFICATION MODEL.
+I'm very thrilled to share my First Task at CodSoft Internship December 2023 viz. CREDIT CARD FRAUD DETECTION.
 More details on the structure, working and requirements are available in the README files of respective folder name corresponding to the Task Name.
 '''
 
 # AUTHOR: Madhan Sai CR
-# TASK NAME: Movie Genre Classification
-# 1st Task in the List of Tasks
+# TASK NAME: Credit card fraud detection
+# 2st Task in the List of Tasks
 # TASK CATEGORY: Machine Learning
 # DATE OF SUBMISSION: 30 December 2023
 # LinkedIn Profile: https://www.linkedin.com/in/cr-madhan-sai-32b083241
