@@ -11,7 +11,8 @@ More details on the structure, working and requirements are available in the REA
 # 1st Task in the List of Tasks
 # TASK CATEGORY: Machine Learning
 # DATE OF SUBMISSION: 30 december 2023
-# LinkedIn Profile: https://linkedin.com/in/arcticblue/
+# LinkedIn Profile: http://www.linkedin.com/in/madhan-sai-cr-3863692a7
+#Github Profile:https://github.com/111622201057
 
 
 
