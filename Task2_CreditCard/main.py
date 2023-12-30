@@ -11,7 +11,7 @@ More details on the structure, working and requirements are available in the REA
 # 2st Task in the List of Tasks
 # TASK CATEGORY: Machine Learning
 # DATE OF SUBMISSION: 30 December 2023
-# LinkedIn Profile:http://www.linkedin.com/in/madhansaicr
+# LinkedIn Profile:http://www.linkedin.com/in/cr-madhan-sai-AI
 #github Profile:https://github.com/111622201057
 
 
