@@ -10,6 +10,7 @@ In this repository, I present my Three significant tasks I accomplished during m
 For this task, I implemented an ML model using TF-IDF and Naive Bayes classifier to successfully predict movie genres based on plot summaries, achieving accurate genre classification.
 Youtube video:
 https://youtu.be/0e-FLqElR4U?feature=shared
+
 Linkedin Video:
 Movie Genre Classification:
 https://www.linkedin.com/posts/cr-madhan-sai-ai_moivegenreclassification-codsoft-codsoftinternship-activity-7146700824394555392-DcNe?utm_source=share&utm_medium=member_desktop
@@ -19,6 +20,7 @@ https://www.linkedin.com/posts/cr-madhan-sai-ai_moivegenreclassification-codsoft
 In this task, I developed a fraud detection model utilizing algorithms such as Logistic Regression, Decision Trees, and Random Forests on a credit card transaction dataset. The code and output files are available in the respective project directory.
 Youtube Video:
 https://youtu.be/x0rLhrN7uWk?feature=shared
+
 Linkedin video : 
 Credit Card Fraud Detection:
 https://www.linkedin.com/posts/cr-madhan-sai-ai_creditcardfrauddetection-codsoft-codsoftinternship-activity-7146701418295406592-ApUF?utm_source=share&utm_medium=member_desktop
@@ -35,6 +37,7 @@ Feel free to reach out if you have any questions or feedback.
 Sincerely Thank You for reviewing my internship work!
 Youtube video:
 https://youtu.be/OK3x2NLjh68?feature=shared
+
 Linkedin video :
 spam sms detection :
 https://www.linkedin.com/posts/cr-madhan-sai-ai_spamsmsdetection-codsoft-codsoftinternship-activity-7146702106366779392-_rcj?utm_source=share&utm_medium=member_desktop
