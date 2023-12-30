@@ -50,10 +50,15 @@ This repository contains Python code for detecting credit card fraud using a Ran
 - Scikit-Learn (`scikit-learn`)
 - TQDM (`tqdm`)
 - **Imbalanced-Learn** (`imblearn`)
+
+ ###youtube:
+ https://youtu.be/x0rLhrN7uWk?feature=shared
+  
 ### Linkedin video:
 Credit Card Fraud Detection
-https://www.linkedin.com/posts/madhansaicr_creditcardfrauddetection-codsoft-codsoftinternship-activity-7146541408210808832-5URj?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/cr-madhan-sai-ai_creditcardfrauddetection-codsoft-codsoftinternship-activity-7146701418295406592-ApUF?utm_source=share&utm_medium=member_desktop
+
 ### Author
 Madhan Sai CR
-> Contact me @ [LinkedIn](http://www.linkedin.com/in/madhansaicr) |  [Email](mailto:madhansaiofficial@gmail.com)
+> Contact me @ [LinkedIn](http://www.linkedin.com/in/cr-madhan-sai-AI) |  [Email](mailto:mscelegala2004@gmail.com)
 
