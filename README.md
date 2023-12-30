@@ -37,4 +37,4 @@ https://www.linkedin.com/posts/madhansaicr_spamsmsdetection-codsoft-codsoftinter
 
 
 Madhan Sai CR
-> Contact me @ [LinkedIn](http://www.linkedin.com/in/madhansaicr) |  [Email](mailto:madhansaiofficial@gmail.com)
+> Contact me @ [LinkedIn](http://www.linkedin.com/in/cr-madhan-sai-AI) |  [Email](mailto:mscelegala2004@gmail.com)
